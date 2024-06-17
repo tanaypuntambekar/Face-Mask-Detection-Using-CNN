@@ -1,6 +1,7 @@
 # Face-Mask-Detection-Using-CNN
 
 Link to the Dataset- https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
+The Dataset contains over 7000 Images.
 
 We will use images to build a CNN model using TensorFlow to detect if you are wearing a face mask or not.
 
@@ -12,3 +13,5 @@ Tools and Approaches Used
 - Keras/Tensorflow — CNN
 - OpenCV
 - Matplotlib, seaborn
+
+Model Accuracy Reached 93%
